@@ -1,13 +1,13 @@
 # 🎮 C# Basic Logic in Unity (IF Statement & Looping)
 
-A simple Unity project demonstrating fundamental C# programming concepts such as conditional statements and looping structures.
+A Unity project demonstrating basic C# logic using if-else and loops.
 
 ## ✨ Features
-* Pass or fail evaluation using if-else
-* Grade classification (A, B, C, D)
-* Even and odd number filtering using loops
-* Console output using Debug.Log
-
+- Pass or fail evaluation using if-else
+- Grade classification (A, B, C, D)
+- Even and odd number filtering using loops
+- Console output using Debug.Log
+  
 ## 🧠 Key Concepts
 * If-else statement
 * Nested conditions
@@ -27,8 +27,12 @@ A simple Unity project demonstrating fundamental C# programming concepts such as
 4. Outputs results to the Unity Console
 
 ## 🛠️ Tech Stack
-* C#
-* Unity Engine
+- C#
+- Unity Engine
+
+## 📁 Project Structure
+- GradeEvaluator.cs → Handles score evaluation and grading
+- EvenOddChecker.cs → Handles even and odd number filtering
 
 ## 📌 Purpose
 This project was created to practice basic programming logic in Unity using C#, focusing on conditional statements and looping.
