@@ -16,6 +16,16 @@ A simple Unity project demonstrating fundamental C# programming concepts such as
 * For loop
 * Modulo operator (%)
 
+
+## 📌 Purpose
+This project was created to practice basic programming logic in Unity using C#, focusing on conditional statements and looping.
+
+## ▶️ How to Run
+1. Open the project in Unity
+2. Attach the script to a GameObject
+3. Run the scene
+4. Check the output in the Console
+   
 ## 🚀 How It Works
 
 1. The program evaluates a student's score and determines pass/fail status
